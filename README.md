@@ -1,3 +1,3 @@
 # Libraries
-
-Numpy Introduction
+-Numpy 
+ Numpy Introduction
