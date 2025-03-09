@@ -8,3 +8,4 @@
 ## Pandas
      - Pandas Introduction
      - project 1 - Country GDP Analysis using pandas
+     - project 2 - Country GDP Analysis using pandas, matplotlib, seaborn
