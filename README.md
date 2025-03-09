@@ -4,3 +4,6 @@
     - Numpy Complete Built-in Function
     - Project 1- Image to array conversion using Numpy, PIL, Plt
     - Project 2 - IPL data analysis using Numpy + Matplotlib
+
+## Pandas
+     - Pandas Introduction
