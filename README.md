@@ -12,7 +12,7 @@
      - Project 3 - IMDB movie rating analysis from kaggle dataset
 
 ## Matplotlib
-   # Table of contents
+   ### Table of contents
         1.	Introduction
         2.	Overview of Python Data Visualization Tools
         3.	Introduction to Matplotlib  
