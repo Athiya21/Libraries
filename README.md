@@ -10,6 +10,7 @@
      - project 1 - Country GDP Analysis using pandas
      - project 2 - Country GDP Analysis using pandas, matplotlib, seaborn
      - Project 3 - IMDB movie rating analysis from kaggle dataset
+     - convert unclean data to clean data 
 
 ## Matplotlib
    ### Table of contents
