@@ -48,3 +48,17 @@
         32.	Adding a legend     
         33.	Control colours     
         34.	Control line styles       
+ ## Raw Data to Clean Data Conversion using Python EDA
+        EDA (Exploratory Data Analysis) is a data exploration technique used to understand the various aspects and structure of a dataset. It helps in identifying patterns, 
+        spotting anomalies, and preparing the data for modeling.
+   ## EDA Techniques
+      1. Variable Identification
+         - Independent Variables (X)
+         - Dependent Variable (Y)
+      2. Univariate Analysis     - Analyzing individual variables
+      3. Bivariate Analysis      - Analyzing the relationship between two variables
+      4. Outlier Treatment       - Identifying and handling outliers
+      5. Missing Value Treatment - Detecting and addressing missing data
+      6. Imputation Technique    - Replacing missing values with statistical estimates
+      7. Variable Creation       - Creating new features from existing data
+    
