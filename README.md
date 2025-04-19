@@ -61,4 +61,14 @@
       5. Missing Value Treatment - Detecting and addressing missing data
       6. Imputation Technique    - Replacing missing values with statistical estimates
       7. Variable Creation       - Creating new features from existing data
-    
+
+## Movie_Rating_Analysis using Matplotlib & seaborn
+   ## This project demonstrates advanced data visualization techniques using Seaborn and Matplotlib. The following visualizations are included:
+        1. Joint Plots  
+        2. Histograms  
+        3. Stacked Histograms  
+        4. KDE Plots  
+        5. Subplots  
+        6. Violin Plots  
+        7. FacetGrid  
+        8. Dashboard Building 
