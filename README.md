@@ -72,3 +72,23 @@
         6. Violin Plots  
         7. FacetGrid  
         8. Dashboard Building 
+
+## Iris_Dataset_visualization using Matplotlib & seaborn
+  ## This project demonstrates advanced data visualization techniques using Seaborn and Matplotlib. The following visualizations are included:
+     1. Bar plot
+     2. Joint plot
+     3. FacetGrid plot
+     4. Box plot (or) whisker plot
+     5. strip plot
+     6. violin plot
+     7. Pair plot
+     8. Heat Map
+     9. Distribution plot
+     10. swarm plot
+     11. lm plot
+     12. Factor plot
+     13. KDE plot
+     14. Dashboard
+     16. Stacked Histogram
+     17. Area plot
+     18. Distplot
