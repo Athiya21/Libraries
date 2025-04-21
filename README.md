@@ -92,3 +92,32 @@
      16. Stacked Histogram
      17. Area plot
      18. Distplot
+
+## 💓 Heart Disease Analysis using EDA
+   ###  📑 Table of Contents
+            The table of contents for this project are as follows: -
+                1. Import libraries
+                2. Import dataset
+                3. Exploratory data analysis
+                       3.1. Check shape of the dataset
+                	   3.2. Dataset description
+                       3.3. Check data types of columns
+                       3.4. Statistical summary of dataset
+                       3.5. View column names
+                4. Univariate analysis
+                       4.1. Analysis of `target` feature variable
+                       4.2. Key findings from univariate analysis
+                5.  Bivariate analysis
+                       5.1. Estimating correlation coefficients
+                       5.2. Analysis of target vs cp variable
+                       5.3. Analysis of target vs thalach variable
+                       5.4. Key findings from bivariate analysis
+                6.	Multivariate analysis
+                       6.1. Heatmap
+                       6.2. Pair Plot
+                7.	Handling Missing Values
+                       7.1. Using isnull() and notnull() functions
+                       7.2. Useful commands to detect missing values
+                8.	Data Validation with assert Statements
+                9.	Outlier detection
+                10.	📝 Conclusion
