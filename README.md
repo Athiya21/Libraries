@@ -13,41 +13,41 @@
      - convert unclean data to clean data 
 
 ## Matplotlib
-   ### Table of contents
-        1.	Introduction
-        2.	Overview of Python Data Visualization Tools
-        3.	Introduction to Matplotlib  
-        4.	Import Matplotlib  
-        5.	Displaying Plots in Matplotlib     
-        6.	Matplotlib Object Hierarchy      
-        7.	Matplotlib interfaces        
-        8.	Pyplot API        
-        9.	Object-Oriented API        
-        10.	Figure and Subplots        
-        11.	First plot with Matplotlib        
-        12.	Multiline Plots        
-        13.	Parts of a Plot        
-        14.	Saving the Plot        
-        15.	Line Plot        
-        16.	Scatter Plot        
-        17.	Histogram        
-        18.	Bar Chart        
-        19.	Horizontal Bar Chart        
-        20.	Error Bar Chart        
-        21.	Stacked Bar Chart       
-        22.	Pie Chart      
-        23.	Box Plot        
-        24.	Area Chart        
-        25.	Contour Plot        
-        26.	Styles with Matplotlib Plots       
-        27.	Adding a grid        
-        28.	Handling axes       
-        29.	Handling X and Y ticks        
-        30.	Adding labels       
-        31.	Adding a title       
-        32.	Adding a legend     
-        33.	Control colours     
-        34.	Control line styles       
+   ### 📝 Table of contents
+            1.	Introduction
+            2.	Overview of Python Data Visualization Tools
+            3.	Introduction to Matplotlib  
+            4.	Import Matplotlib  
+            5.	Displaying Plots in Matplotlib     
+            6.	Matplotlib Object Hierarchy      
+            7.	Matplotlib interfaces        
+            8.	Pyplot API        
+            9.	Object-Oriented API        
+            10.	Figure and Subplots        
+            11.	First plot with Matplotlib        
+            12.	Multiline Plots        
+            13.	Parts of a Plot        
+            14.	Saving the Plot        
+            15.	Line Plot        
+            16.	Scatter Plot        
+            17.	Histogram        
+            18.	Bar Chart        
+            19.	Horizontal Bar Chart        
+            20.	Error Bar Chart        
+            21.	Stacked Bar Chart       
+            22.	Pie Chart      
+            23.	Box Plot        
+            24.	Area Chart        
+            25.	Contour Plot        
+            26.	Styles with Matplotlib Plots       
+            27.	Adding a grid        
+            28.	Handling axes       
+            29.	Handling X and Y ticks        
+            30.	Adding labels       
+            31.	Adding a title       
+            32.	Adding a legend     
+            33.	Control colours     
+            34.	Control line styles       
  ## Raw Data to Clean Data Conversion using Python EDA
         EDA (Exploratory Data Analysis) is a data exploration technique used to understand the various aspects and structure of a dataset. It helps in identifying patterns, 
         spotting anomalies, and preparing the data for modeling.
